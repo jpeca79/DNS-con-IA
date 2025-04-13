@@ -1,0 +1,5 @@
+IP: 179.1.196.100 (SurConexion Colombia S.A.S, Colombia)
+  ├─ Resuelve: ✅ - google.com → 142.251.135.174
+  ├─ Recursiva: ❌
+  └─ Amplificación: ⚠
+                       
