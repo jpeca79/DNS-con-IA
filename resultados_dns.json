@@ -1,0 +1,102 @@
+[
+  {
+    "ip": "190.90.15.134",
+    "organizacion": "AMERICANA DE TECNOLOGIA Y COMUNICACIONES SAS",
+    "pais": "Colombia",
+    "resuelve": false,
+    "dominio": "-",
+    "respuesta": "-",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "179.1.196.100",
+    "organizacion": "SurConexion Colombia S.A.S",
+    "pais": "Colombia",
+    "resuelve": true,
+    "dominio": "google.com",
+    "respuesta": "142.251.129.206",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "190.90.148.38",
+    "organizacion": "INTERNEXA S.A. E.S.P",
+    "pais": "Colombia",
+    "resuelve": false,
+    "dominio": "-",
+    "respuesta": "-",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "190.90.8.181",
+    "organizacion": "WIRELESS COMMUNICATIONS DE COLOMBIA",
+    "pais": "Colombia",
+    "resuelve": false,
+    "dominio": "-",
+    "respuesta": "-",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "190.26.219.120",
+    "organizacion": "GRUPO SERT LTDA",
+    "pais": "Colombia",
+    "resuelve": false,
+    "dominio": "-",
+    "respuesta": "-",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "201.182.248.28",
+    "organizacion": "SP SISTEMAS PALACIOS LTDA",
+    "pais": "Colombia",
+    "resuelve": false,
+    "dominio": "-",
+    "respuesta": "-",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "131.100.51.97",
+    "organizacion": "FIBERNET TV SAS",
+    "pais": "Colombia",
+    "resuelve": true,
+    "dominio": "cloudflare.com",
+    "respuesta": "104.16.132.229",
+    "recursiva": false,
+    "amplificacion": true
+  },
+  {
+    "ip": "186.97.149.138",
+    "organizacion": "Colombia M\u00f3vil",
+    "pais": "Colombia",
+    "resuelve": true,
+    "dominio": "google.com",
+    "respuesta": "142.251.132.142",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "179.1.139.84",
+    "organizacion": "INTERNEXA S.A. E.S.P",
+    "pais": "Colombia",
+    "resuelve": false,
+    "dominio": "-",
+    "respuesta": "-",
+    "recursiva": false,
+    "amplificacion": false
+  },
+  {
+    "ip": "181.49.90.138",
+    "organizacion": "Telmex Colombia S.A.",
+    "pais": "Colombia",
+    "resuelve": false,
+    "dominio": "-",
+    "respuesta": "-",
+    "recursiva": false,
+    "amplificacion": false
+  }
+]                       
